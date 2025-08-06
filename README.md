@@ -28,6 +28,6 @@ RickyTheRaccoon for his InvSwitch.
 
 #### Official youtube channel https://www.youtube.com/channel/UCq_NxTxgS-Xk0TsSmhqXoyg
 #### Sitio Web: https://bykebit.github.io/McCatsDonalds/ | https://github.com/BykeBit/McCatsDonalds 
-####In Discord: SvenrtSO
+#### In Discord: SvenrtSO
 
 ### Once you go black you never go back
